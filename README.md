@@ -75,9 +75,9 @@ Whether you are a founder shipping an MVP, an SMB replacing manual workflows wit
 
 ## 📊 GitHub Activity
 
-![Shery's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheharyarr-ahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F0F&title_color=6EE7B7&icon_color=6EE7B7)
+![Shery's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheharyarr-ahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F0F&title_color=6EE7B7&icon_color=6EE7B7&hide_rank=true&hide=stars,issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyarr-ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F0F&title_color=6EE7B7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyarr-ahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F0F&title_color=6EE7B7&langs_count=8&hide=Jupyter%20Notebook)
 
 ---
 
