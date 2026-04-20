@@ -1,6 +1,6 @@
-# Hi, I'm Shery 👋
+# Hi, I'm Sheharyar Ahmed 👋
 
-![Rawalpindi](https://img.shields.io/badge/📍-Rawalpindi%2C%20Pakistan-6EE7B7?style=flat-square&labelColor=0F0F0F)
+![Remote](https://img.shields.io/badge/🌐-Remote%20%2F%20Global-6EE7B7?style=flat-square&labelColor=0F0F0F)
 ![Shery Labs](https://img.shields.io/badge/🧪-Shery%20Labs%20Founder-6EE7B7?style=flat-square&labelColor=0F0F0F)
 ![AI Native](https://img.shields.io/badge/🤖-AI%20Native%20Engineer-6EE7B7?style=flat-square&labelColor=0F0F0F)
 
@@ -43,6 +43,10 @@ Apple-platform engineering done properly. **SwiftUI 6, SwiftData, Core ML** for 
 
 From classical ML pipelines to production LLM integration. **PyTorch, FastAPI, Hugging Face, scikit-learn**. Including RAG systems, fine-tuning workflows, and ML-powered backends for applied AI products.
 
+### 📈 Marketing Engineering & Growth Agents
+
+Autonomous growth infrastructure for founders who want leads, traffic, and pipeline generated without hiring a marketing team. Programmatic SEO engines, AI-powered outbound agents, automated content pipelines, and analytics dashboards that surface signal instead of noise. Marketing that runs itself.
+
 ## 🎯 How I Work
 
 **Engagement Tiers** — $2K to $10K+ fixed-price projects, plus retainer-based agentic system maintenance.
@@ -66,7 +70,7 @@ From classical ML pipelines to production LLM integration. **PyTorch, FastAPI, H
 
 Whether you are a founder shipping an MVP, an SMB replacing manual workflows with autonomous systems, or a funded startup needing native iOS delivered properly — Shery Labs is built for you.
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Shery%20Labs-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sherylabs)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sherylabs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheharyar-ahmed-89598b226/)
 [![X](https://img.shields.io/badge/X-@real__sheharyar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/real_sheharyar)
 [![Email](https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheryahmedme1@gmail.com)
@@ -81,4 +85,4 @@ Whether you are a founder shipping an MVP, an SMB replacing manual workflows wit
 
 ---
 
-<sub>🌍 Rawalpindi, Pakistan (UTC+5) • ⚡ Available for new engagements • 🏛️ NUST M.S. Software Engineering (in progress) • 🎓 SZABIST B.Sc. Software Engineering (2024)</sub>
+<sub>🌐 Remote / Global (UTC+5) • ⚡ Available for new engagements • 🏛️ NUST M.S. Software Engineering (in progress) • 🎓 SZABIST B.Sc. Software Engineering (2024)</sub>
