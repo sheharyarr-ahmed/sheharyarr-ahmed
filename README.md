@@ -59,8 +59,8 @@ Autonomous growth infrastructure for founders who want leads, traffic, and pipel
 
 ## 🛠 The Stack
 
-**AI / Agents** → LangChain • LangGraph • CrewAI • MCP (Model Context Protocol) • OpenAI • Anthropic • Hugging Face
-**Web** → Next.js • React 19 • TypeScript • Node.js • FastAPI • Tailwind • Prisma
+**AI / Agents** → LangChain • LangGraph • CrewAI • MCP (Model Context Protocol) • OpenAI • Anthropic • ChatGPT • Claude • Codex • Hugging Face
+**Web** → Next.js • React 19 • TypeScript • Node.js • Express • FastAPI • Tailwind • Prisma
 **iOS** → Swift 6 • SwiftUI • SwiftData • Core ML • Xcode
 **Data** → PostgreSQL • MongoDB • Supabase • Redis • Vector Databases
 **ML** → Python • PyTorch • scikit-learn • NumPy • pandas
